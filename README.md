@@ -47,6 +47,7 @@
 <p align="center"><img alt="AM173Q466466FLS2" src="./images/AM173Q466466FLS2.png" width="320" /></p>
 
 **说明：** 带触摸（CST9217）。
+
 ---
 
 ## 如何切换分支
