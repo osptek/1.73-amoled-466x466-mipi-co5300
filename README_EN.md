@@ -46,8 +46,7 @@ Repo id: `1.73-amoled-466x466-mipi-co5300`
 
 <p align="center"><img alt="AM173Q466466FLS2" src="./images/AM173Q466466FLS2.png" width="320" /></p>
 
-**Notes:** Module.
-
+**Notes:** With touch (CST9217).
 ---
 
 ## How to Switch Branches
